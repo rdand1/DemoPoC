@@ -39,26 +39,4 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/webapp/InventoryDetails.jsp</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/offshore/09-May/firefox/MyApp/MyApp/src/main/webapp/InventoryDetails.jsp</locationURI>
-		</link>
-		<link>
-			<name>src/main/java/com/psl/main/InventoryBean.java</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/offshore/09-May/firefox/MyApp/MyApp/src/main/java/com/psl/main/InventoryBean.java</locationURI>
-		</link>
-		<link>
-			<name>src/main/java/com/psl/main/InventoryDAO.java</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/offshore/09-May/firefox/MyApp/MyApp/src/main/java/com/psl/main/InventoryDAO.java</locationURI>
-		</link>
-		<link>
-			<name>src/main/java/com/psl/main/testdemo.java</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/offshore/09-May/firefox/MyApp/MyApp/src/main/java/com/psl/main/testdemo.java</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
